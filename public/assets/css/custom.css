@@ -1,0 +1,33 @@
+.card-header .btn{
+    margin: auto 0 auto auto;
+}
+
+.form{
+    margin:0 auto;
+    width: 100%;
+}
+
+.card .card-header h4{
+    text-align: center;
+    width: 100%;
+}
+
+.action{
+    text-align: center;
+}
+
+.btn-edit{
+    padding: 5px;
+    font-size: 20px;
+}
+
+.btn-product{
+    padding: 5px;
+    font-size: 20px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+
+/*# sourceMappingURL=custom.css.map */
+
+
+

@@ -1,0 +1,61 @@
+.account {
+    border: 2px solid black;
+    width: 100%;
+    color: black;
+    font-size: 18px;
+}
+
+.accountTd {
+    border: 1px solid rgb(216, 204, 204);
+    border-right: 2px solid black;
+    padding: 3px;
+}
+
+.borderTd {
+    border-bottom: 1px solid black;
+}
+
+.boldborderTd {
+    border-bottom: 3px solid black;
+}
+
+.borderTop {
+    border-top: 1.1px solid black;
+}
+
+.tdBold {
+    border-right: 3px solid black;
+}
+
+.tdWidth {
+    width: 150px;
+
+}
+
+.borderBottom {
+    border-bottom: 2px solid black;
+}
+
+.subButton {
+    margin-top: 29px;
+}
+
+.dash {
+    border-bottom: 4px solid black
+}
+
+.tdright {
+    text-align: right;
+}
+
+.tdcenter {
+    text-align: center;
+}
+
+.borderBottom2 {
+    border-bottom: 1.1px solid black;
+}
+
+.bgtd{
+    background-color: rgb(227, 227, 227);
+}
